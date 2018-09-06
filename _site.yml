@@ -2,9 +2,9 @@ name: "MyLabJournal"
 navbar:
   title: "MyLabJournal"
   left:
-    - text: "Home"
+    - text: "Cover"
       href: index.html
-    - text: "Journal"
+    - text: "Practice"
       href: Journal.html
     - text: "Links"
       href: Links.html
