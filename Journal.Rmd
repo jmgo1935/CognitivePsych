@@ -1,0 +1,43 @@
+---
+title: "Journal"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+# My Attempts at Using R
+##### By Josephine O'Malley
+
+Start Date: September 4, 2018
+
+
+
+
+# Headings
+## CUNY
+### The Graduate Center
+#### Psychology
+##### Cognition, Language, and Development
+
+
+# Basic Math
+```{r}
+a<-1
+b<-4
+c<-9
+d<-16
+e<-25
+
+a+c+e
+e/b
+
+
+
