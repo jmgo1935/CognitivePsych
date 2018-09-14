@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Practice"
       href: Journal.html
+    - text: "Foundations"
+      href: test.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"

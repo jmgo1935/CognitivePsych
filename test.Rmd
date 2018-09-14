@@ -1,0 +1,22 @@
+---
+title: "Creativity"
+output: html_document
+bibliography      : "refs copy.bib"
+csl: "apa-old-doi-prefix.csl"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Foundational Paper
+
+In @mednick1962associative, the author discusses a theory of the creative thought process. He describes creative thought in terms of association between elements within a given domain or problem, and provides explanation for how this association may form. @mednick1962associative details that it is not enough for two distinct elements to be juxtaposed, nor it is enough to simply generate these juxtapositions; these elements must come together in such a way that their combination is useful and consequently solves (or nearly solves) a particular problem requiring a creative solution. He also explains individual differences that can influence creativity, such as the number of associates a person has for a particular element. In particular, @mednick1962associative discusses associative hierarchies or the “associative strength” of elements to a particular stimulus. Those who have a hierarchy with a “flat slope” do not have drastic differences in associative strength between stereotypical and atypical associates, and are therefore likely to produce creative responses to a stimulus, and produce them quicker. @mednick1962associative also describes the development of the Remote Associates Test (RAT), used to measure creativity by asking participants to find a common associate of three apparently unrelated terms. The RAT was shown to correlate with other measures of creativity and with different aspects of personality. It is also noteworthy that @mednick1962associative’s theory is not domain-specific; this forming of associations is proposed to affect creative thought in all domains, including science and art. @mednick1962associative provides a comprehensive view of a novel interpretation of creative processes, and provides sufficient explanation and correlational support of his theory that has lead to the paper’s endurance.
+
+# Newer Paper
+
+@mednick1962associative suggests that the number of associations a person has formed for a particular element influences the likelihood of forming creative associations between distinct elements. @furst2018multilingualism expand on this idea by explaining how a person comes to have more associations. Being multilingual and multicultural exposes a person to a broader range of experiences, and these different experiences may form associations monocultural or monolingual populations are less likely to devise. Being multilingual often is tied into being multicultural (though one is not necessary for the other), and with these different experiences, people of a multilingual or multicultural background are expected to have enhanced creativity. With this in mind, the authors take experience abroad into account when assessing creativity in multilinguals. Indeed, experience abroad did significantly predict participants’ self-reported skills in idea generation, and idea generation positively correlated with skills in L2, L3, and L4. @mednick1962associative also discusses how creative ideas are selected: the result of the combination of elements must meet requirements necessary to solve an issue. @furst2018multilingualism included this idea of selection in their discussion of “potential creativity,” a facet of creativity that the authors argue is often overlooked. Also consistent with @mednick1962associative’s theory that associative processes underlie creative process across domains, @furst2018multilingualism also assessed “manifest creativity” by examining interest and achievement in a variety of domains. Though the authors primarily relied on self-report measures to assess creativity, they were able to apply @mednick1962associative's ideas to assessment in multilinguals while proposing a novel, multifaceted approach to measuring creativity.
+
+# References
+
+
